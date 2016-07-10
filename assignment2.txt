@@ -1,0 +1,10 @@
+1. d. Application server
+2. d. All of above
+3. a. Abstracted 
+4. b. open()
+5. c. 4
+6. a. Figuring the first and last whole records in the block
+7. b. input splits
+8. a. closed
+9. a.
+10. a. getmerge
